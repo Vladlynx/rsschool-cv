@@ -18,3 +18,12 @@ Hi. My name is Vladimir. I am 26 years old. I work as an administrator in a stor
 - JavaScript
 ************
 ## Code examples
+
+```
+function multiply($a, $b) {
+return $a * $b;
+}
+```
+****
+## Education
+- Minsk State Trade College
