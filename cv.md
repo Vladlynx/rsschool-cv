@@ -24,6 +24,10 @@ function multiply($a, $b) {
 return $a * $b;
 }
 ```
-****
+***
 ## Education
-- Minsk State Trade College
+- **Minsk State Trade College**
+***
+## Language
+- **Russian** - *Native*
+- **English** - *A2*
